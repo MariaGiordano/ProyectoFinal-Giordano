@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "nombre": "Crema facial",
+      "precio": 6000,
+      "imagen": "img/cremafacial.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Crema para manos",
+      "precio": 5400,
+      "imagen": "img/cremamanos.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Máscara de arcilla",
+      "precio": 8900,
+      "imagen": "img/mascara.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Gel de limpieza",
+      "precio": 12450,
+      "imagen": "img/limpieza.png"
+    }
+  ]
